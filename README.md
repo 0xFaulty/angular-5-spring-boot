@@ -21,10 +21,10 @@ Navigate to `http://localhost:4200/`.
 
 ## Back
 
-Intellij Idea run:
-- `run cloud.templates.TemplateApplication class`
+Development run:
+- `run cloud.templates.TemplateApplication class in your IDE`
 
-Tomcat deploy build:
+Deploy build:
 - `uncomment tomcat dependency in pom.xml`
 - `mvn clean package`
 
