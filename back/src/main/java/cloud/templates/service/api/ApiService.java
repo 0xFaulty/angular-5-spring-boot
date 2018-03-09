@@ -1,4 +1,4 @@
-package cloud.defaulty.service.api;
+package cloud.templates.service.api;
 
 public interface ApiService {
 

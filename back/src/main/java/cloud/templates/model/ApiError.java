@@ -1,10 +1,10 @@
-package cloud.defaulty.model;
+package cloud.templates.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+@Data
 @AllArgsConstructor
-public @Data
-class ApiError {
+public class ApiError {
     private String error;
 }

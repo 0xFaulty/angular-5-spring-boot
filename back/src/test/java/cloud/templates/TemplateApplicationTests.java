@@ -1,4 +1,4 @@
-package cloud.defaulty;
+package cloud.templates;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
