@@ -1,5 +1,10 @@
 ﻿# Angular 5 Universal with Spring Boot 2.0.0.RELEASE Template
 
+## Requirements 
+- Java 1.8
+- Apache Maven 3.5.2
+- Node.js 8.9.3
+
 ## Front
 
 Prepare:
